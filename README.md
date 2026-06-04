@@ -12,6 +12,12 @@ This project serves as a practical exploration of modern full-stack web developm
 - Cloud-ready deployment patterns
 - Performance and SEO optimization
 
+Project Showcase available at: https://simple-financial-dashboard.vercel.app/
+
+Guest Login Credentials: 
+Username: user@nextmail.com
+Password: 123456
+
 ---
 
 ## Tech Stack
